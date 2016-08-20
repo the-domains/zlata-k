@@ -1,3 +1,4 @@
+layout_spectrum: 0.4461403901223093
 typography_spectrum: 0.11228887969627976
 color:
   brandStrength: 0.4260405246168375
@@ -5,12 +6,9 @@ color:
   saturation: 0.35915927798487246
   rhythmicContrast: 0.47843510867096484
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-layout_spectrum: 0.4461403901223093
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Zlata K
-title: Impossible Winner
-description: CEO of the 21st century
